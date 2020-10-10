@@ -68,19 +68,18 @@ header h2 {
     width: 100%;
 }
 
-/* Semantic HTML Change*/
 .page-area {
     max-width: 768px;
     display: inline-block;
 }
 
-footer {
+.bottom {
     height: 50px;
     background-color: #b4c6f0;
     padding: 40px;
 }
 
-footer {
+.center {
     text-align: center;
 }
 
