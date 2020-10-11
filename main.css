@@ -40,7 +40,8 @@ div.menu ul li a:hover  {
 header {
     height: 350px;
     background-color: #b4c6f0;
-    background-image: url('/pb/bg.png');
+    /*  This is an A11Y change*/
+    background-image: url('/pb/bg.png' alt = "Background pic");
     background-size: 400px;
     background-repeat: no-repeat;
     background-position: center bottom;
